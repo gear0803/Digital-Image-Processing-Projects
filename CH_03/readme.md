@@ -1,4 +1,4 @@
-#ReadMe
+ReadMe
 
 ---
 This is a repository recording some of the laboratory projects of ***Digital Image Processing*** written by Rafael C. Gonzalez, 2nd/3rd edition.
